@@ -4,7 +4,7 @@
 
 I'm a graduate student at the University at Buffalo, pursuing a Master's in Computer Science. I'm passionate about leveraging AI and machine learning to solve real-world challenges, with a particular interest in data-driven projects and sustainable development. As a Graduate Teaching Assistant for the Deep Learning course (CSE676), I actively engage with students, grade assignments, and mentor projects.
 
-In my current research, I am exploring **vision transformers** under Professor Kaiyi Ji, focusing on their application to multi-modal tasks. Additionally, I have experience leading teams as the Event Management Head at ISTE-RAIT, where I coordinated tech events, workshops, and seminars. My work spans various projects, including chatbot development, machine learning models, and cloud computing solutions.
+My current research explores **vision transformers** under Professor Kaiyi Ji, focusing on their application to multi-modal tasks. Additionally, I have experience leading teams as the Event Management Head at ISTE-RAIT, where I coordinated tech events, workshops, and seminars. My work spans various projects, including chatbot development, machine learning models, and cloud computing solutions.
 
 ## 🔭 I'm currently working on:
 - Building machine learning pipelines integrating cloud services and AI models.
@@ -41,7 +41,7 @@ In my current research, I am exploring **vision transformers** under Professor K
   
 ## 🛠️ How to reach me:
 - **Email**: bhushanm@buffalo.edu
-- **Website**: [YourWebsite.com](https://bhushan4829.github.io)
-- **LinkedIn**: [YourLinkedIn](https://linkedin.com/in/bhushan2908)
+- **Website**: [https://bhushan4829.github.io](https://bhushan4829.github.io)
+- **LinkedIn**: [https://linkedin.com/in/bhushan2908](https://linkedin.com/in/bhushan2908)
 
 ---
