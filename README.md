@@ -12,7 +12,7 @@ My current research explores **vision transformers** under Professor Kaiyi Ji, f
 ## 🌱 I'm learning:
 - Deep Learning Techniques
 - Cloud Deployment (GCP, AWS)
-- Natural Language Processing (NLP)
+- Large Language Models (LLM)
 
 ## 💬 Ask me about:
 - Machine Learning
