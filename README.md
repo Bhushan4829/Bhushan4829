@@ -38,6 +38,7 @@ My current research explores **vision transformers** under Professor Kaiyi Ji, f
 - Dart
 - Java
 - Cloud Computing
+- Azure Functions
   
 ## 🛠️ How to reach me:
 - **Email**: bhushanm@buffalo.edu
