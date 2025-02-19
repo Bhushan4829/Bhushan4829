@@ -40,6 +40,9 @@ My current research explores **vision transformers** under Professor Kaiyi Ji, f
 - Azure Functions
 - AWS Lambda
 - Microsoft Fabric
+- AWS EKS
+- AWS EMR
+- Azure Kubernetes
   
 ## 🛠️ How to reach me:
 - **Email**: bhushanm@buffalo.edu
