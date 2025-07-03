@@ -1,52 +1,62 @@
-# Bhushan Mahajan
+# Hi I'm Bhushan Mahajan
 
 ## 🚀 About Me
+I’m an **AI / ML Engineer** with an M.S. in Computer Science, Graduate from the University at Buffalo.  
+My passion is turning cutting-edge research into production-ready solutions—especially in **fintech** (fraud detection, risk modeling) and **medtech** (clinical NLP, imaging).  
+I’m actively seeking **full-time roles** where I can design scalable ML systems and lead cross-functional teams from prototype to deployment.
 
-I'm a graduate student at the University at Buffalo, pursuing a Master's in Computer Science. I'm passionate about leveraging AI and machine learning to solve real-world challenges, with a particular interest in data-driven projects and sustainable development. As a Graduate Teaching Assistant for the Deep Learning course (CSE676), I actively engage with students, grade assignments, and mentor projects.
-
-My current research explores **vision transformers** under Professor Kaiyi Ji, focusing on their application to multi-modal tasks. Additionally, I have experience leading teams as the Event Management Head at ISTE-RAIT, where I coordinated tech events, workshops, and seminars. My work spans various projects, including chatbot development, machine learning models, and cloud computing solutions.
-
-## 🔭 I'm currently working on:
-- Building machine learning pipelines integrating cloud services and AI models.
-
-## 🌱 I'm learning:
-- Deep Learning Techniques
-- Cloud Deployment (GCP, AWS)
-- Large Language Models (LLM)
-
-## 💬 Ask me about:
-- Machine Learning
-- AI for Social Good
-- Web Development
-
-## 🛠️ Skills
-
-**Tech Stack:**
-
-![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000?style=flat&logo=keras) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![GCP](https://img.shields.io/badge/-Google_Cloud-000?style=flat&logo=google-cloud) ![R](https://img.shields.io/badge/-R-000?style=flat&logo=r) ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql) ![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch) ![Microsoft Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)![GitLab](https://img.shields.io/badge/-GitLab-000?style=flat&logo=gitlab)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)![Snowflake](https://img.shields.io/badge/-Snowflake-000?style=flat&logo=snowflake)![Neo4j](https://img.shields.io/badge/-Neo4j-000?style=flat&logo=neo4j)![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau) ![Rest API](https://img.shields.io/badge/-Rest_API-000?style=flat&logo=rest-api)![Ngrok](https://img.shields.io/badge/-Ngrok-000?style=flat&logo=ngrok)![Pyspark](https://img.shields.io/badge/-Pyspark-000?style=flat&logo=apachespark)![Hadoop](https://img.shields.io/badge/-Hadoop-000?style=flat&logo=apachehadoop)![NumPy](https://img.shields.io/badge/-NumPy-000?style=flat&logo=numpy) ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000?style=flat&logo=matplotlib) ![Scikit-learn](https://img.shields.io/badge/-Scikit_Learn-000?style=flat&logo=scikit-learn) ![Seaborn](https://img.shields.io/badge/-Seaborn-000?style=flat&logo=seaborn) 
-
-**Currently Learning:**
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?style=flat&logo=kubernetes) ![Microsoft Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoft-azure)![Google Extensions API](https://img.shields.io/badge/-Google_Extensions_API-000?style=flat&logo=google-chrome)
-
-**Other Skills**:
-- MapReduce
-- Data Visualization
-- Large Language Models (LLMs)
-- HuggingFace
-- HTML, CSS
-- Dart
-- Java
-- Azure Functions
-- AWS Lambda
-- Microsoft Fabric
-- AWS EKS
-- AWS EMR
-- Azure Kubernetes
-  
-## 🛠️ How to reach me:
-- **Email**: bhushanm@buffalo.edu
-- **Website**: [https://bhushan4829.github.io](https://bhushan4829.github.io)
-- **LinkedIn**: [https://linkedin.com/in/bhushan2908](https://linkedin.com/in/bhushan2908)
+As a Graduate Teaching Assistant for Deep Learning (CSE 676), I mentored 80 + students, graded projects, and conducted workshops on transformers and generative models.
 
 ---
+
+## 🔭 What I’m Working On
+- Multi-cloud ML pipelines that fuse event-driven architectures (Kafka, Pub/Sub) with LLM-powered services.  
+- Domain-specific RAG frameworks.
+
+## 🌱 Currently Deep-Diving Into
+- **Vision & Multimodal Transformers** for tabular-image fusion  
+- **Reg-tech & HIPAA compliance** for AI applications  
+- **MLOps** best practices on AWS / Azure
+
+## 💬 Ask Me About
+Machine Learning · LLMs & RAG · Cloud MLOps · Data Engineering · AI for Social Good
+
+---
+
+## 🛠️ Tech Stack
+
+| **Core ML / Data** | **Cloud & DevOps** | **Web & App** |
+|:--|:--|:--|
+| ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![PyTorch](https://img.shields.io/badge/-PyTorch-000?style=flat&logo=pytorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat&logo=tensorflow) ![Keras](https://img.shields.io/badge/-Keras-000?style=flat&logo=keras) ![HuggingFace](https://img.shields.io/badge/-HuggingFace-000?style=flat&logo=huggingface) ![Pandas](https://img.shields.io/badge/-Pandas-000?style=flat&logo=pandas) ![Spark](https://img.shields.io/badge/-PySpark-000?style=flat&logo=apachespark) | ![AWS](https://img.shields.io/badge/-AWS-000?style=flat&logo=amazonaws) ![GCP](https://img.shields.io/badge/-GCP-000?style=flat&logo=googlecloud) ![Azure](https://img.shields.io/badge/-Azure-000?style=flat&logo=microsoftazure) ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-K8s-000?style=flat&logo=kubernetes) ![AWS Lambda](https://img.shields.io/badge/-Lambda-000?style=flat&logo=awslambda) ![Azure Functions](https://img.shields.io/badge/-Azure_Functions-000?style=flat&logo=azurefunctions) | ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react) ![Django](https://img.shields.io/badge/-Django-000?style=flat&logo=django) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![FastAPI](https://img.shields.io/badge/-FastAPI-000?style=flat&logo=fastapi) |
+
+### 📊 Databases & Big Data
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat&logo=postgresql)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000?style=flat&logo=snowflake)
+![Neo4j](https://img.shields.io/badge/-Neo4j-000?style=flat&logo=neo4j)
+![Hadoop](https://img.shields.io/badge/-Hadoop-000?style=flat&logo=apachehadoop)
+![Kafka](https://img.shields.io/badge/-Kafka-000?style=flat&logo=apachekafka)
+
+### 🔧 Tooling & Ops
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=flat&logo=gitlab)
+![Postman](https://img.shields.io/badge/-Postman-000?style=flat&logo=postman)
+![Tableau](https://img.shields.io/badge/-Tableau-000?style=flat&logo=tableau)
+![Grafana](https://img.shields.io/badge/-Grafana-000?style=flat&logo=grafana)
+![Prometheus](https://img.shields.io/badge/-Prometheus-000?style=flat&logo=prometheus)
+
+### 🛠️ Other Skills
+![MapReduce](https://img.shields.io/badge/-MapReduce-000?style=flat&logo=apache)
+![LLMs](https://img.shields.io/badge/-Large_Language_Models-000?style=flat&logo=openai)
+![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3)
+![Dart](https://img.shields.io/badge/-Dart-000?style=flat&logo=dart)
+![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=openjdk)
+![Microsoft Fabric](https://img.shields.io/badge/-Microsoft_Fabric-000?style=flat&logo=microsoft)
+![AWS EKS](https://img.shields.io/badge/-AWS_EKS-000?style=flat&logo=amazoneks)
+![AWS EMR](https://img.shields.io/badge/-AWS_EMR-000?style=flat&logo=amazoneks)
+
+---
+
+## 📫 Let’s Connect
+[![Email](https://img.shields.io/badge/-Email-000?style=flat&logo=gmail)](mailto:bhushanm@buffalo.edu)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=flat&logo=linkedin)](https://linkedin.com/in/bhushan2908)
+[![Website](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=githubpages)](https://server-backend-ten.vercel.app/)
